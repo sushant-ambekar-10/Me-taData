@@ -1,0 +1,71 @@
+{
+    "projects": [
+      {
+        "name": "CareNow",
+        "duration": "Jan 2024 - Present",
+        "description": "CareNow is an Android application that can be beneficial for patients and caregivers. It helps patients to connect with caregivers according to their needs and caregivers can get job opportunities.",
+        "skills": ["Android Development", "Firebase"],
+        "website":"false",
+        "github":"https://github.com/sushant-ambekar-10/CareNow"
+
+      },
+      {
+        "name": "Me-tadata",
+        "duration": "Jan 2024 - Present",
+        "description": "Me-tadata is my personal website which introduces me.",
+        "skills": ["HTML", "Cascading Style Sheets (CSS)", "JavaScript", "Website Building", "Web Design"],
+        "website":"true",
+        "link":"/",
+        "github":"https://github.com/sushant-ambekar-10/Me-taData"
+      },
+      {
+        "name": "DigVid",
+        "duration": "Jan 2022 - Jan 2023",
+        "associated_with": "Government Polytechnic College Nanded",
+        "description": "DigVid stands for Digital Video Library that was a website which was a collection of all video lectures and study materials related to Information Technology. DigVid is my Final Year project which got First Prize in final year projects.",
+        "skills": ["WordPress"],
+        "website":"true",
+        "link":"/",
+        "github":"https://github.com/sushant-ambekar-10/"
+      },
+      {
+        "name": "JnearS",
+        "duration": "Jan 2023 - Jan 2023",
+        "associated_with": "Yeshwantrao Chavan College of Engineering - YCCE",
+        "description": "JnearS is a website. Jnears was an experiment for connecting all juniors and seniors in the college campus.",
+        "skills": ["HTML", "Cascading Style Sheets (CSS)", "JavaScript", "PHP", "PhpMyAdmin", "Databases"],
+        "website":"true",
+        "link":"/",
+        "github":"https://github.com/sushant-ambekar-10/JnearS"
+      },
+      {
+        "name": "Locify",
+        "duration": "Jan 2023 - Jan 2023",
+        "associated_with": "Government Polytechnic College Nanded",
+        "description": "Locify is an Android application which can be used to track someone's location and verify if anyone moved to unwanted places. Once my principal randomly asked all of us to try to create an application that would notify them of any student or faculty moving from campus, I got an idea and tried my best.",
+        "skills": ["Android Development"],
+        "website":"false",
+        "github":"https://github.com/sushant-ambekar-10/Locify"
+      },
+      {
+        "name": "Digital Library",
+        "duration": "Jan 2020 - Jan 2022",
+        "associated_with": "Government Polytechnic College Nanded",
+        "description": "Digital Library is a website that provides all study material related to Information Technology for all semesters. This was a college project and is still running on the college website: http://gpnd-digital-lab.rf.gd",
+        "skills": ["HTML", "Cascading Style Sheets (CSS)", "JavaScript"],
+        "website":"true",
+        "link":"http://gpnd-digital-lab.rf.gd",
+        "github":"https://github.com/sushant-ambekar-10/Digital_Library"
+      },
+      {
+        "name": "Java Compiler",
+        "duration": "Jan 2022 - Jan 2022",
+        "associated_with": "Government Polytechnic College Nanded",
+        "description": "It is a software project which is a fully working Java compiler based on Java and some knowledge about Operating System Commands. It was designed in VB.NET. When I was learning Java programming, the basic technique of compiling Java programs was difficult, and while there were many IDEs available that made writing programs easier, I tried my best to solve this problem.",
+        "skills": ["Java", "Visual Basic .NET (VB.NET)"],
+        "website":"fasle",
+        "github":"https://github.com/sushant-ambekar-10/Java-Compiler"
+      }
+    ]
+  }
+  
