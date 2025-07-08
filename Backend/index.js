@@ -10,7 +10,10 @@ const projectRoutes= require("./routes/projects");
 const DetailsRoutes=require("./routes/details");
 
 const app=express();
-app.use(cors());
+// app.use(cors());
+app.use(cors({
+  origin: 'https://me-tadata-frontend.onrender.com'
+}));
 app.use(express.json());
 
 // router.post("/",createProject);
