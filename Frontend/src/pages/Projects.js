@@ -51,7 +51,7 @@ export default function Dashboard() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/projects")  // Your API endpoint here
+    fetch("https://me-tadata.onrender.com/api/projects")  // Your API endpoint here
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch projects");
         return res.json();
