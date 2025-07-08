@@ -29,7 +29,7 @@ export default function ProjectInfoForm() {
     e.preventDefault();
 
         try {
-          const res = await fetch("http://localhost:5000/api/projects", {
+          const res = await fetch("https://me-tadata.onrender.com/api/projects", {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
