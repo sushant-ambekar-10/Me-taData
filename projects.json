@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "682c9d22436b60af4f640a7d"
+  },
+  "name": "Sign Detection System for Impaired Person App",
+  "description": "The Sign Detection System is an AI-powered application designed to bridge the communication gap for individuals facing speech and hearing challenges. It recognizes sign language gestures using machine learning models and converts them into text or speech, enabling seamless interaction.",
+  "duration": "Jan 2025 - Present",
+  "website": "fasle",
+  "github": "https://github.com/sushant-ambekar-10/Sign-Detection-System-for-Impaired-Person-App",
+  "skills": [
+    "Android Development",
+    "Python",
+    "Machine Learning",
+    "IOT"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9d30436b60af4f640a80"
+  },
+  "name": "Food Waste Management App",
+  "description": "The Food Waste Management App enables efficient redistribution of surplus food to those in need, reducing waste and promoting sustainability. It also leverages AI to suggest possible dishes from leftover ingredients, ensuring optimal food utilization.",
+  "duration": "Jan 2025 - Present",
+  "website": "fasle",
+  "github": "https://github.com/sushant-ambekar-10/Food-Waste-Management-App",
+  "skills": [
+    "Android Development",
+    "Firebase",
+    "Machine Learning"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9d6cdb892f3ce53c9917"
+  },
+  "name": "CricbOI",
+  "description": "CicbOI is a dedicated platform for cricket players to register and manage their personal profiles for cricket organizations.",
+  "duration": "Sept 2025 - Sept 2025",
+  "website": "true",
+  "github": "https://github.com/sushant-ambekar-10/cricbOl",
+  "link": "/",
+  "skills": [
+    "HTML",
+    "Firebase",
+    "CSS",
+    "JavaScript"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9d754b4614acabec84e0"
+  },
+  "name": "CareNow",
+  "description": "CareNow is an Android application that can be beneficial for patients and caregivers. It helps patients to connect with caregivers according to their needs and caregivers can get job opportunities.",
+  "duration": "Jan 2024 - May 2024",
+  "website": "false",
+  "github": "https://github.com/sushant-ambekar-10/CareNow",
+  "skills": [
+    "Android Development",
+    "Firebase"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9d7d19fa0395a741d962"
+  },
+  "name": "Me-tadata",
+  "description": "Me-tadata is my personal website which introduces me.",
+  "duration": "Jan 2024 - Present",
+  "website": "true",
+  "github": "https://github.com/sushant-ambekar-10/My-Portfolio",
+  "link": "/",
+  "skills": [
+    "HTML",
+    "Cascading Style Sheets (CSS)",
+    "JavaScript",
+    "Website Building",
+    "Web Design"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9d8697368d443112a88b"
+  },
+  "name": "Speak2Sheet",
+  "description": "Speak2Sheet is an intelligent speech-to-Excel converter that transforms spoken data into structured spreadsheet entries with accuracy and efficiency.",
+  "duration": "July 2024 - July 2024",
+  "website": "false",
+  "github": "https://github.com/sushant-ambekar-10/Speak2Sheet",
+  "skills": [
+    "Python"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9d90cfb8d2e99577659f"
+  },
+  "name": "My-Command",
+  "description": "My-Command is a voice-controlled desktop assistant that executes essential system commands effortlessly. It allows users to open applications, play specific songs, perform web searches, and automate common tasks with simple voice inputs.",
+  "duration": "July 2024 - July 2024",
+  "website": "false",
+  "github": "https://github.com/sushant-ambekar-10/My-Command",
+  "skills": [
+    "Python"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9d9891bcaaac9f5a1234"
+  },
+  "name": "Locity",
+  "description": "Locity is a real-time city bus tracking app designed to enhance the travel experience for commuters. It provides live location updates of buses, estimated arrival times, and route details, ensuring hassle-free and efficient travel.",
+  "duration": "July 2023 - Present",
+  "website": "false",
+  "github": "https://github.com/sushant-ambekar-10/Locity",
+  "skills": [
+    "Android Development",
+    "Firebase"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9da147f760719fe7be5d"
+  },
+  "name": "DigVid",
+  "description": "DigVid stands for Digital Video Library that was a website which was a collection of all video lectures and study materials related to Information Technology. DigVid is my Final Year project which got First Prize in final year projects.",
+  "duration": "Jan 2022 - Jan 2023",
+  "website": "true",
+  "github": "https://github.com/sushant-ambekar-10/DigVid",
+  "link": "/",
+  "skills": [
+    "WordPress"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9da95f442b334118b277"
+  },
+  "name": "JnearS",
+  "description": "JnearS is a website. Jnears was an experiment for connecting all juniors and seniors in the college campus.",
+  "duration": "Jan 2023 - Jan 2023",
+  "website": "true",
+  "github": "https://github.com/sushant-ambekar-10/JnearS",
+  "link": "/",
+  "skills": [
+    "HTML",
+    "Cascading Style Sheets (CSS)",
+    "JavaScript",
+    "PHP",
+    "PhpMyAdmin",
+    "Databases"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9db20c6ac60f2ca0c3c9"
+  },
+  "name": "Locify",
+  "description": "Locify is an Android application which can be used to track someone's location and verify if anyone moved to unwanted places. Once my principal randomly asked all of us to try to create an application that would notify them of any student or faculty moving from campus, I got an idea and tried my best.",
+  "duration": "Jan 2023 - Jan 2023",
+  "website": "false",
+  "github": "https://github.com/sushant-ambekar-10/Locify",
+  "skills": [
+    "Android Development"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9dbb695e3f85068b0639"
+  },
+  "name": "Digital Library",
+  "description": "Digital Library is a website that provides all study material related to Information Technology for all semesters. This was a college project and is still running on the college website: http://gpnd-digital-lab.rf.gd",
+  "duration": "Jan 2020 - Jan 2022",
+  "website": "true",
+  "github": "https://github.com/sushant-ambekar-10/Digital_Library",
+  "link": "http://gpnd-digital-lab.rf.gd",
+  "skills": [
+    "HTML",
+    "Cascading Style Sheets (CSS)",
+    "JavaScript"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c9dc15f6de6fc3e5efc6d"
+  },
+  "name": "Java Compiler",
+  "description": "It is a software project which is a fully working Java compiler based on Java and some knowledge about Operating System Commands. It was designed in VB.NET. When I was learning Java programming, the basic technique of compiling Java programs was difficult, and while there were many IDEs available that made writing programs easier, I tried my best to solve this problem.",
+  "duration": "Jan 2022 - Jan 2022",
+  "website": "fasle",
+  "github": "https://github.com/sushant-ambekar-10/Java-Compiler",
+  "skills": [
+    "Java",
+    "Visual Basic .NET (VB.NET)"
+  ],
+  "__v": 0
+}]
